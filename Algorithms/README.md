@@ -1,7 +1,3 @@
-* [Algorithms](#algorithms)
-
-Solutions are coded using Python
-
 # Algorithms
 
 |        Subdomain        |                                                              Challenge                                                              | Points |                                                                                  Solution                                                                                 |

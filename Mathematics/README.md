@@ -1,7 +1,3 @@
-* [Mathematics](#mathematics)
-
-Solutions are coded using Python
-
 # Mathematics
 
 |        Subdomain        |                                                              Challenge                                                              | Points |                                                                                  Solution                                                                                 |
