@@ -1,0 +1,6 @@
+# Introduction
+
+|        Subdomain        |                                                              Challenge                                                              | Points |                                                                                  Solution                                                                                 |
+|:-----------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|:------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|         Date and Time         | [Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem)                                                         |   10   | [Solution.py](https://github.com/sidou06/hackerrank-solutions/blob/main/python/Collections/Collections.Counter()/Solution.py)                          |
+|         Date and Time         | [Time Delta](https://www.hackerrank.com/challenges/python-time-delta/problem)                                                         |   30   | [Solution.py](https://github.com/sidou06/hackerrank-solutions/blob/main/python/Collections/DefaultDict%20Tutorial/Solution.py)                          |
