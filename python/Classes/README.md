@@ -1,0 +1,6 @@
+# Introduction
+
+|        Subdomain        |                                                              Challenge                                                              | Points |                                                                                  Solution                                                                                 |
+|:-----------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|:------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|         Classes         | [Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem)                    |   20   | [Solution.py](https://github.com/sidou06/hackerrank-solutions/blob/main/python/Date%20and%20Time/Calendar%20Module/Solution.py)                          |
+|         Classes         | [Class 2 - Find the Torsional Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem)                        |   20   | [Solution.py](https://github.com/sidou06/hackerrank-solutions/blob/main/python/Date%20and%20Time/Time%20Delta/Solution.py)                          |
