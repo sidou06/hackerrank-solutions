@@ -141,6 +141,8 @@ Solutions are coded using Python
 |         Numpy         | [Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer/problem)                            |   20   | [Solution.py](https://github.com/sidou06/hackerrank-solutions/blob/main/python/Numpy/Inner%20and%20Outer/Solution.py)          |
 |         Numpy         | [Polynomials](https://www.hackerrank.com/challenges/np-polynomials/problem)                            |   20   | [Solution.py](https://github.com/sidou06/hackerrank-solutions/blob/main/python/Numpy/Polynomials/Solution.py)                        |
 |         Numpy         | [Linear Algebra](https://www.hackerrank.com/challenges/np-linear-algebra/problem)                            |   20   | [Solution.py](https://github.com/sidou06/hackerrank-solutions/blob/main/python/Numpy/Linear%20Algebra/Solution.py)    |
+|         Debugging         | [Words Score](https://www.hackerrank.com/challenges/words-score/problem)                    |   10   | [Solution.py](https://github.com/sidou06/hackerrank-solutions/blob/main/python/Debugging/Words%20Score/Solution.py)   |
+|         Debugging         | [Default Arguments](https://www.hackerrank.com/challenges/default-arguments/problem)                    |   30   | [Solution.py](https://github.com/sidou06/hackerrank-solutions/blob/main/python/Debugging/Default%20Arguments/Solution.py)        |
 # Mathematics
 
 |        Subdomain        |                                                              Challenge                                                              | Points |                                                                                  Solution                                                                                 |
