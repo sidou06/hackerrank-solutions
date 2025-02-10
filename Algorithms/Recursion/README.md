@@ -1,0 +1,6 @@
+# Introduction
+
+|        Subdomain        |                                                              Challenge                                                              | Points |                                                                                  Solution                                                                                 |
+|:-----------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|:------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|         Recursion          | [The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem)                     |   20   | [Solution.py](https://github.com/sidou06/hackerrank-solutions/blob/main/Algorithms/Constructive%20Algorithms/Flipping%20the%20Matrix/Solution.py)                          |
+|         Recursion          | [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem)                     |   30   | [Solution.py](https://github.com/sidou06/hackerrank-solutions/blob/main/Algorithms/Constructive%20Algorithms/Gaming%20Array/Solution.py)   |
