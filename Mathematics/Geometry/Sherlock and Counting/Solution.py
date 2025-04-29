@@ -21,7 +21,6 @@ def solve(n, k):
         x1 = int((n - math.sqrt(delta)) / 2)
         # Ensure s1 is not negative
         s1 = max(x1, 0)
-
         # Calculate the upper bound x2
         x2 = (n + math.sqrt(delta)) / 2
         # Round up if x2 is not an integer
